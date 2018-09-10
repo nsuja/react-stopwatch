@@ -1,3 +1,5 @@
+*.sw?
+
 # OSX
 #
 .DS_Store
